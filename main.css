@@ -5,6 +5,8 @@
 * ใบอนุญาต: https://bootstrapmade.com/license/
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
 /* Fonts */
 :root {
     --font-default: 'Kanit';
@@ -1037,6 +1039,7 @@ section {
 .post .details {
     /* box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
   padding: 30px; */
+    font-family: "Sarabun";
     box-shadow: 0 0 10px 2.5px #b5b3b3bb;
     padding: 30px;
     transition: 0.3s;
